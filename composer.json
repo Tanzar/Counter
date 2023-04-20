@@ -1,4 +1,8 @@
 {
+    "name": "tanzar/counter",
+    "description": "Library with counters",
+    "type": "library",
+    "license": "MIT",
     "require-dev": {
         "phpunit/phpunit": "^10.1"
     },
@@ -6,5 +10,13 @@
         "psr-4": {
             "Counter\\" : "src"
         }
-    }
+    },
+    "authors": [
+        {
+            "name": "Tanzar",
+            "email": "spakowski19@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
 }

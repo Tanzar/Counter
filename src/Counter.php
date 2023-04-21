@@ -1,6 +1,6 @@
 <?php
 
-namespace Counter;
+namespace Tanzar\Counter;
 
 class Counter {
     private int $startValue = 0;

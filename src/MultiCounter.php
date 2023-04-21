@@ -1,6 +1,6 @@
 <?php
 
-namespace Counter;
+namespace Tanzar\Counter;
 
 class MultiCounter{
     private array $counters;

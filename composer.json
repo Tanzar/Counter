@@ -3,9 +3,6 @@
     "description": "Library with counters",
     "type": "library",
     "license": "MIT",
-    "require-dev": {
-        "phpunit/phpunit": "^10.1"
-    },
     "autoload": {
         "psr-4": {
             "Tanzar\\Counter\\" : "src/"
@@ -18,5 +15,8 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^10.1"
+    }
 }

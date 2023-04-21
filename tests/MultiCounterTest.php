@@ -1,6 +1,6 @@
 <?php
-use Tanzar\Counter\Counter;
-use Tanzar\Counter\MultiCounter;
+use Counter\Counter;
+use Counter\MultiCounter;
 use PHPUnit\Framework\TestCase;
 
 class MultiCounterTest extends TestCase {

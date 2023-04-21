@@ -1,5 +1,5 @@
 <?php
-use Tanzar\Counter\Counter;
+use Counter\Counter;
 use PHPUnit\Framework\TestCase;
 
 class CounterTest extends TestCase{

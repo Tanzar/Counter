@@ -8,7 +8,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Tanzar\\Counter\\" : "src"
+            "Tanzar\\Counter\\" : "src/"
         }
     },
     "authors": [
